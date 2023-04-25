@@ -1,16 +1,19 @@
-/*  your css code here. If applicable */
+body{
+	margin:0;
+	padding:0;
+}
 #up{
 	width:0;
-    border-left: 30px solid transparent;
-    border-right: 30px solid transparent;
-    border-bottom: 60px solid yellow;
+    border-left: 35px solid transparent;
+    border-right: 35px solid transparent;
+    border-bottom: 70px solid yellow;
 	position:absolute;
 }
 #down{
 	width:0;
-    border-left: 30px solid transparent;
-    border-right: 30px solid transparent;
-    border-top: 60px solid yellow;
+    border-left: 35px solid transparent;
+    border-right: 35px solid transparent;
+    border-top: 70px solid yellow;
 	position:absolute;
-	top:25px
+	top:20px
 }
